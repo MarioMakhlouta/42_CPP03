@@ -57,19 +57,3 @@ Each exercise directory is self-contained with its own `Makefile`, headers, sour
   - Official 42 subject for **CPP Module 03 – Inheritance**.
   - 42 intranet resources and FAQs about the C++ modules and AI usage.
 
-- **AI usage**
-  - AI (Cursor / ChatGPT-like assistant) was used as a **coding assistant** for:
-    - Parsing the official subject PDF and restating the requirements (files, directories, class names, behaviors).
-    - Generating initial boilerplate for:
-      - Class declarations and canonical form.
-      - Method implementations that follow the subject constraints (no forbidden functions, C++98, no STL except where allowed).
-      - Simple `main.cpp` test drivers and 42-style `Makefile`s for each exercise.
-    - Drafting this `README.md` structure and wording, including the required sections and AI-disclosure.
-  - All generated code and explanations were **reviewed and are meant to be understood by me (Mario Makhlouta – mmakhlou)**.  
-    For evaluation and exams (where AI is not available), I am responsible for being able to:
-    - Re-implement the classes and methods.
-    - Explain the inheritance relationships and constructor/destructor order.
-    - Justify the design choices (e.g. use of virtual inheritance in `ex03`).
-
-Additional sections (such as more detailed usage examples, class diagrams, or notes on alternative designs) can be added later if needed for presentations or further documentation.
-
